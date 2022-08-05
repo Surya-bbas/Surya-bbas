@@ -1,5 +1,5 @@
 
-
+<img style="width: 1100px;" src="https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg?w=2000" alt="asdasd">
 <h1 align="center">Hi 👋, I'm Surya S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -19,7 +19,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-bbas&show_icons=true&locale=en" alt="surya-bbas" /></p>
 <center>
-<img src="https://user-images.githubusercontent.com/99864714/183197382-a708f765-22ad-4935-8913-9f4710041aaa.png" alt="">
+<img style="width: 500px;" src="https://user-images.githubusercontent.com/99864714/183197382-a708f765-22ad-4935-8913-9f4710041aaa.png" alt="">
+
 </center>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya-bbas&" alt="surya-bbas" /></p> 
