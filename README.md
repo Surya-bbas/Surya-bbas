@@ -1,9 +1,10 @@
+![image](https://user-images.githubusercontent.com/99864714/183191352-96972e0a-8ca8-4cc8-9497-b672ea3cb471.png)
+
 <h1 align="center">Hi 👋, I'm Surya S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-bbas&label=Profile%20views&color=0e75b6&style=flat" alt="surya-bbas" /> </p>
 
-- 📫 How to reach me **suryasaravanan2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
