@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/surya-s-4b4098227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surya-s-4b4098227/" height="30" width="40" /></a>
+    <img align="right" style="width: 500px;" src="https://user-images.githubusercontent.com/99864714/183197382-a708f765-22ad-4935-8913-9f4710041aaa.png" alt=""><a href="https://linkedin.com/in/https://www.linkedin.com/in/surya-s-4b4098227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surya-s-4b4098227/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/surya_22119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/surya_22119/" height="30" width="40" /></a>
 </p>
 
@@ -18,10 +18,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-bbas&show_icons=true&locale=en&layout=compact" alt="surya-bbas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-bbas&show_icons=true&locale=en" alt="surya-bbas" /></p>
-<center>
-<img style="width: 500px;" src="https://user-images.githubusercontent.com/99864714/183197382-a708f765-22ad-4935-8913-9f4710041aaa.png" alt="">
 
-</center>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya-bbas&" alt="surya-bbas" /></p> 
