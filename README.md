@@ -17,7 +17,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-bbas&show_icons=true&locale=en&layout=compact" alt="surya-bbas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-bbas&show_icons=true&locale=en" alt="surya-bbas" /></p>![image](https://user-images.githubusercontent.com/99864714/183191352-96972e0a-8ca8-4cc8-9497-b672ea3cb471.png)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-bbas&show_icons=true&locale=en" alt="surya-bbas" /></p>
+![image](https://user-images.githubusercontent.com/99864714/183191352-96972e0a-8ca8-4cc8-9497-b672ea3cb471.png)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya-bbas&" alt="surya-bbas" /></p>![image](https://user-images.githubusercontent.com/99864714/183197382-a708f765-22ad-4935-8913-9f4710041aaa.png)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya-bbas&" alt="surya-bbas" /></p> 
+![image](https://user-images.githubusercontent.com/99864714/183197382-a708f765-22ad-4935-8913-9f4710041aaa.png)
 
