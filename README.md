@@ -1,4 +1,3 @@
-
 <img style="width: 1100px;" src="https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg?w=2000" alt="asdasd">
 <h1 align="center">Hi 👋, I'm Surya S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
