@@ -28,10 +28,14 @@
 
 <br>
 <br>
-
-<p align='center'>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-bbas&show_icons=true&locale=en&layout=compact" alt="surya-bbas" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-bbas&show_icons=true&locale=en" alt="surya-bbas" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya-bbas&" alt="surya-bbas" /></p> 
+<br>
+<br/>
+<p align="center" style="margin-top:70px;">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-bbas&show_icons=true&locale=en&layout=compact&theme=radical&" alt="surya-bbas" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-bbas&show_icons=true&locale=en&theme=tokyonight&" alt="surya-bbas" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya-bbas&theme=tokyonight&hide_border=true" alt="surya-bbas" /></p> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-bbas&label=Profile%20views&color=0e75b6&style=flat" alt="surya-bbas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-bbas&label=Profile%20views&color=1A1B27&style=flat" alt="surya-bbas" /> </p>
+
+
+
 
