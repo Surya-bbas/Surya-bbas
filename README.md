@@ -1,14 +1,14 @@
-<img style="width: 1100px;" src="https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg?w=2000" alt="asdasd">
-<h1 align="center">Hi 👋, I'm Surya S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h1 align="center">Hi 👋, I'm Surya </h1>
+
 
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <img align="right" style="width: 500px;" src="https://user-images.githubusercontent.com/99864714/183197382-a708f765-22ad-4935-8913-9f4710041aaa.png" alt=""><a href="https://linkedin.com/in/surya-s-4b4098227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surya-s-4b4098227/" height="30" width="40" /></a>
-<a href="https://instagram.com/surya_22119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/surya_22119/" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/surya-s-4b4098227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surya-s-4b4098227/" height="30" width="40" /></a>
+
 </p>
 
 
@@ -33,6 +33,9 @@
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+
 
 
 
