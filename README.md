@@ -69,7 +69,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-bbas&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="surya-bbas" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-bbas&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="surya-bbas" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya-bbas&theme=tokyonight&hide_border=true" alt="surya-bbas" /></p> 
-ro
+
 </p>
 <a href="https://github.com/Surya-bbas"><img alt="Surya Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Surya-bbas&bg_color=0D1117&color=628FDA&line=628FDA&point=FFFFFF&hide_border=true&theme=tokyonight" /></a>
 
